@@ -1,0 +1,10 @@
+ins.diff-change {
+  background-color: #ffff00;
+  border-style: dotted;
+  border-width: 1px;
+}
+del.diff-change {
+  background-color: #ffff00;
+  border-style: dotted;
+  border-width: 1px;
+}
